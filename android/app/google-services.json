@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206137005666",
+    "project_id": "projekt-kolarstwo",
+    "storage_bucket": "projekt-kolarstwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206137005666:android:c556e7925c87da6f7aa33b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projekt_inzynierka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206137005666-fjus0agqo7m2577jeantsd3lbbrvetg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_projekt_inzynierka",
+            "certificate_hash": "c5c80ba28958d4b982a326f90b0c5eb024ac8bf2"
+          }
+        },
+        {
+          "client_id": "206137005666-v0lf35jaeoo548vpfakil8te9upi8eq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEWGM5O0iTyxvrWpQDlYSzzJ1WgOWPbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206137005666-v0lf35jaeoo548vpfakil8te9upi8eq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
