@@ -2,6 +2,8 @@
 
 Aplikacja została napisana jako część pracy inżynierskiej. Ja byłem odpowiedzialny za większość systemu, nie licząc przykładowych tras.
 
+Aplikacja wchodzi w skład systemu, w którego skład wchodzi jeszcze strona internetowa korzystająca z tej samej bazy danych.
+
 Wykorzystane technologie: Flutter i Firebase
 
 Aplikacja posiada takie funkcje jak:
